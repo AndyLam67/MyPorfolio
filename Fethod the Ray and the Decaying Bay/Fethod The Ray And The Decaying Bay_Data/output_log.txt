@@ -7,22 +7,22 @@ Direct3D:
     VRAM:     3072 MB
     Driver:   23.21.13.9125
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.020 seconds
-Platform assembly: C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\andy1\Desktop\Porfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\andy1\Desktop\MyPorfolio\Fethod the Ray and the Decaying Bay\Fethod The Ray And The Decaying Bay_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initialized touch support.
 The referenced script on this Behaviour (Game Object 'Button') is missing!
  
@@ -36,15 +36,105 @@ The referenced script on this Behaviour (Game Object 'Button') is missing!
  
 (Filename:  Line: 1743)
 
-UnloadTime: 1.081285 ms
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.214425 ms
+UnloadTime: 0.984890 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.463710 ms
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 32524.
-Total: 6.369192 ms (FindLiveObjects: 1.504396 ms CreateObjectMapping: 0.830025 ms MarkObjects: 3.968399 ms  DeleteObjects: 0.065580 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 9.010182 ms (FindLiveObjects: 0.029629 ms CreateObjectMapping: 0.011851 ms MarkObjects: 0.137481 ms  DeleteObjects: 8.830430 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 26ec -> priority: 1 
-  Thread -> id: 49c -> priority: 1 
-  Thread -> id: 1c74 -> priority: 1 
-  Thread -> id: 7e0 -> priority: 1 
+  Thread -> id: d44 -> priority: 1 
+  Thread -> id: 2aa8 -> priority: 1 
+  Thread -> id: 3eec -> priority: 1 
+  Thread -> id: 1b6c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.511605 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.316049 ms (FindLiveObjects: 0.035950 ms CreateObjectMapping: 0.013432 ms MarkObjects: 0.187654 ms  DeleteObjects: 0.078617 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.694124 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 8.695714 ms (FindLiveObjects: 0.045037 ms CreateObjectMapping: 0.028839 ms MarkObjects: 0.141432 ms  DeleteObjects: 8.479218 ms)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.805531 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.234666 ms (FindLiveObjects: 0.030419 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.153679 ms  DeleteObjects: 0.035950 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.384790 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 32525.
+Total: 6.113192 ms (FindLiveObjects: 1.515458 ms CreateObjectMapping: 1.016099 ms MarkObjects: 3.518818 ms  DeleteObjects: 0.062419 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.700268 ms
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 15.777597 ms (FindLiveObjects: 0.036345 ms CreateObjectMapping: 0.014617 ms MarkObjects: 0.171456 ms  DeleteObjects: 15.554388 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.513580 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 32525.
+Total: 5.836253 ms (FindLiveObjects: 1.393779 ms CreateObjectMapping: 0.895210 ms MarkObjects: 3.028546 ms  DeleteObjects: 0.517531 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.823425 ms
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 16.094044 ms (FindLiveObjects: 0.048592 ms CreateObjectMapping: 0.035555 ms MarkObjects: 0.151703 ms  DeleteObjects: 15.856610 ms)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449975 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.886519 ms (FindLiveObjects: 0.058864 ms CreateObjectMapping: 0.028839 ms MarkObjects: 0.239802 ms  DeleteObjects: 0.558222 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.483951 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 9.249986 ms (FindLiveObjects: 0.016197 ms CreateObjectMapping: 0.011851 ms MarkObjects: 0.140642 ms  DeleteObjects: 9.080504 ms)
+
